@@ -1,4 +1,4 @@
-# Desafio Sistema_bancario versão:1 🏦
+# Desafio DIO Sistema_bancario versão:1 🏦
 Fomos contratados por um grnade banco para desenvolver o seu novo sistema.
 Esse banco deseja modernizar suas operações e para isso escolheu a linguagem python.
 Para versão do sistema está implantada algumas operações funcionais segue em 
