@@ -1,9 +1,13 @@
 # Desafio DIO Sistema_bancario versão:1 🏦
-Fomos contratados por um grnade banco para desenvolver o seu novo sistema.
+Fomos contratados por um grande banco para desenvolver o seu novo sistema.
 Esse banco deseja modernizar suas operações e para isso escolheu a linguagem python.
 Para versão do sistema está implantada algumas operações funcionais segue em 
 funcionalidades.
 Trata-se da versão:1 do sistema de banco.
+
+# Desafio DIO Sistema_bancario versão:2 🏦
+Otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. 
+O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Ter que Refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo.
 
 ## Funcionalidades🧭
 - Operação de depósito
