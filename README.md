@@ -58,7 +58,7 @@ Cadastrar um novo usuário em um banco significa criar uma nova conta bancária 
 ## 🛠 Habilidades
 Python, HTML, CSS.
 
-![Logo](https://www.alura.com.br/artigos/assets/python-origem/gif-1.gif)
+![Logo](https://i.pinimg.com/originals/27/ae/1f/27ae1f352171260be45fda6bf54c3d3c.gif)
 
 
 
