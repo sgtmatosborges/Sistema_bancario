@@ -2,17 +2,20 @@
 Fomos contratados por um grande banco para desenvolver o seu novo sistema.
 Esse banco deseja modernizar suas operações e para isso escolheu a linguagem python.
 Para versão do sistema está implantada algumas operações funcionais segue em 
-funcionalidades.
+funcionalidades.   
 Trata-se da versão:1 do sistema de banco.
 
 # Desafio DIO Sistema_bancario versão:2 🏦
 Otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. 
-O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Ter que Refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo.
+O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Ter que Refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. Séra adicionado as operações nova conta, Listar contas e novo usuário, todos no menu de Opções ao acessar o sistema Bancario.
 
 ## Funcionalidades🧭
 - Operação de depósito
 - Operação de saque
 - Operação de extrato
+- Operação Nova conta
+- Operação Listar Contas
+- Operação Novo Usuário
 
 ## Operação depósito🥇
 
@@ -31,6 +34,26 @@ Essa operação deve listar todos os depósitos e saques realizados na conta. No
 Os valores devem ser exibidos utilizando o formato R$ XXX.XX,
 Exemplo:
 1500.45 = R$ 1500.45
+
+## Operação Nova conta⏲️
+
+Uma nova conta de usuário em um banco é basicamente uma conta onde você pode gerenciar e guardar seu dinheiro. 
+Aqui estão alguns tipos comuns de contas bancárias que você pode abrir:
+
+1-Conta Corrente: Ideal para uso diário, permite depósitos, saques, transferências e pagamentos. Geralmente vem com um cartão de débito.
+
+2-Conta Poupança: Focada em guardar dinheiro e ganhar juros sobre o saldo.
+
+3-Conta Salário: Especialmente destinada ao recebimento do salário de um empregado. Possui tarifas mais baixas ou inexistentes.
+
+4-Conta Digital: Tudo é gerido online ou através de um aplicativo, sem a necessidade de ir a uma agência física.
+
+## Operação Listar Contas🌕
+
+Listar as contas de um banco envolve identificar todos os diferentes tipos de contas que a instituição oferece aos seus clientes. Isso geralmente inclui informações como os requisitos para abrir cada tipo de conta, os benefícios e recursos de cada uma, e qualquer taxa ou custo associado.
+
+## Operação Novo Usuário💰
+Cadastrar um novo usuário em um banco significa criar uma nova conta bancária para uma pessoa ou uma empresa. Isso envolve registrar todas as informações necessárias do cliente no sistema do banco para que eles possam acessar os serviços oferecidos pela instituição.
 
 ## 🛠 Habilidades
 Python, HTML, CSS.
