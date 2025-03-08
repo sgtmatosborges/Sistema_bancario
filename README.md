@@ -17,6 +17,11 @@ O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as
 - Operação Listar Contas
 - Operação Novo Usuário
 
+## Outras Funcionalidades🧭
+- Cliente -> Pessoa Fisica
+- Conta -> Conta Corrente
+- Transação -> historico
+  
 ## Operação depósito🥇
 
 Deve ser possível depositar valores positivos para a minha conta bancária.
