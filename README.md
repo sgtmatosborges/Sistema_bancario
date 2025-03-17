@@ -8,6 +8,9 @@ Trata-se da versão:1 do sistema de banco.
 # Desafio DIO Sistema_bancario versão:2 🏦
 Otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. 
 O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Ter que Refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. Séra adicionado as operações nova conta, Listar contas e novo usuário, todos no menu de Opções ao acessar o sistema Bancario.
+# Desafio DIO Sistema_bancario versão:3 🏦
+Operações finais adicionada ao sistema para finalizar com criação de classes para sepação do sistema em 
+ordenação para melhor funcionamento.
 
 ## Funcionalidades🧭
 - Operação de depósito
@@ -16,6 +19,9 @@ O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as
 - Operação Nova conta
 - Operação Listar Contas
 - Operação Novo Usuário
+- Operação Criar cliente
+- Operação gerar relatorio
+- Operação filtrar cliente
 
 ## Outras Funcionalidades🧭
 - Cliente -> Pessoa Fisica
